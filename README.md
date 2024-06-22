@@ -26,7 +26,7 @@
 
 <!-- Current Focus and Fun Fact -->
 <div align="center">
-    <img src="https://media.giphy.com/media/ZvLUt0LWkIq8Y/source.gif" width="300"/><br>
+    <img src="https://media.giphy.com/media/ZvLUt0LWkIq8Y/source.gif](https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif" width="300"/><br>
     <b>🔭 Currently Building:</b> A Revolutionary Task Manager<br>
     <b>🌱 Learning:</b> .Net, Terraform<br>
     <b>💬 Ask Me About:</b> Flutter, Node.js, React.js, Django... or anything <a href="https://github.com/malachieborohoul/malachieborohoul/issues">here</a><br>
@@ -56,14 +56,14 @@
                 <h3 align="center">🔹 MbSchool (E-Learning mobile app)</h3>
                 <p align="center">
                     <a href="https://github.com/malachieborohoul/mbschool" target="_blank">
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=malachieborohoul&repo=mbschoolr&theme=radical" alt="Task Manager"/>
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=malachieborohoul&repo=mbschool&theme=radical" alt="MbSchool"/>
                     </a>
                 </p>
             </td>
             <td width="50%">
                 <h3 align="center">🔹 Facturo (An Enterprise Desktop Invoice Maker)</h3>
                 <p align="center">
-                    <a href="https://github.com/malachieborohoul/portfolio](https://github.com/malachieborohoul/facturo" target="_blank">
+                    <a href="https://github.com/malachieborohoul/facturo" target="_blank">
                         <img src="https://github-readme-stats.vercel.app/api/pin/?username=malachieborohoul&repo=facturo&theme=radical" alt="Facturo"/>
                     </a>
                 </p>
