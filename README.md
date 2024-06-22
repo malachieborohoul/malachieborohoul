@@ -26,7 +26,7 @@
 
 <!-- Current Focus and Fun Fact -->
 <div align="center">
-    <img src="https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif" width="100"/><br>
+    <img src="https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif" width="60"/><br>
     <b>🔭 Currently Building:</b> A Revolutionary Task Manager<br>
     <b>🌱 Learning:</b> .Net, Terraform<br>
     <b>💬 Ask Me About:</b> Flutter, Node.js, React.js, Django... or anything <a href="https://github.com/malachieborohoul/malachieborohoul/issues">here</a><br>
