@@ -53,7 +53,7 @@
     <table>
         <tr>
             <td width="50%">
-                <h3 align="center">🔹 MbSchool (E-Learning mobile app)</h3>
+                <h3 align="center">🔹 MbSchool (E-Learning App)</h3>
                 <p align="center">
                     <a href="https://github.com/malachieborohoul/mbschool" target="_blank">
                         <img src="https://github-readme-stats.vercel.app/api/pin/?username=malachieborohoul&repo=mbschool&theme=radical" alt="MbSchool"/>
@@ -61,7 +61,7 @@
                 </p>
             </td>
             <td width="50%">
-                <h3 align="center">🔹 Facturo (An Enterprise Desktop Invoice Maker)</h3>
+                <h3 align="center">🔹 Facturo (Invoice Maker)</h3>
                 <p align="center">
                     <a href="https://github.com/malachieborohoul/facturo" target="_blank">
                         <img src="https://github-readme-stats.vercel.app/api/pin/?username=malachieborohoul&repo=facturo&theme=radical" alt="Facturo"/>
