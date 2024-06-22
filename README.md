@@ -53,18 +53,18 @@
     <table>
         <tr>
             <td width="50%">
-                <h3 align="center">🔹 Task Manager</h3>
+                <h3 align="center">🔹 MbSchool (E-Learning mobile app)</h3>
                 <p align="center">
-                    <a href="https://github.com/malachieborohoul/task-manager" target="_blank">
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=malachieborohoul&repo=task-manager&theme=radical" alt="Task Manager"/>
+                    <a href="https://github.com/malachieborohoul/mbschool" target="_blank">
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=malachieborohoul&repo=mbschoolr&theme=radical" alt="Task Manager"/>
                     </a>
                 </p>
             </td>
             <td width="50%">
-                <h3 align="center">🔹 Portfolio Website</h3>
+                <h3 align="center">🔹 Facturo (An Enterprise Desktop Invoice Maker)</h3>
                 <p align="center">
-                    <a href="https://github.com/malachieborohoul/portfolio" target="_blank">
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=malachieborohoul&repo=portfolio&theme=radical" alt="Portfolio Website"/>
+                    <a href="https://github.com/malachieborohoul/portfolio](https://github.com/malachieborohoul/facturo" target="_blank">
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=malachieborohoul&repo=facturo&theme=radical" alt="Facturo"/>
                     </a>
                 </p>
             </td>
